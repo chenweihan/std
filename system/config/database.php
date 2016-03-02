@@ -6,8 +6,8 @@ $config['driver'] = 'MySQLi';
 $config['master'] = array (
   'charset' => 'utf8',
   'host' => 'localhost',
-  'username' => 'root',
-  'password' => 'cwh123',
+  'username' => 'stdroot',
+  'password' => '123cwh',
   'dbname' => 'std',
 );
 $config['slave'] = false;
