@@ -2,7 +2,7 @@
 body{background:url('img/login_bg.jpg') no-repeat #e9f0f4;}
 .btn-blue{height:40px;line-height:40px;padding:0;border:none;background-color: #943032;color: #fff !important;}
 .btn-blue:hover{background-color: #841F21;}
-.btn-blue:active{background-color: #339dff;}
+.btn-blue:active{background-color: #841F21;}
 .aw-register-box{width: 714px;height: auto;margin:100px auto 40px;padding:50px 0;background:#fff;border:1px solid #b3b3b3;border-radius: 3px;text-align: center;}
 .aw-register-box h1{margin:45px 0 0;font-size: 20px;color: #666;}
 .aw-register-box .mod-body{width: 390px;margin:0 auto;padding: 40px;}
